@@ -1,88 +1,56 @@
-````markdown
-<div align="center">
+```markdown
+# Hi there! 👋 I'm Weldamlak Ayenew
 
-# Hi, I'm Weldamlak Ayenew 👋
+Welcome to my GitHub profile!
 
-### Aspiring Software Engineer • Full-Stack Developer • AI Enthusiast
+I'm a student based in **Addis Ababa, Ethiopia**, passionate about building modern web applications and continuously expanding my knowledge in technology.
 
-Building software that solves real-world problems.
+## 👨‍💻 About Me
 
-</div>
-
----
-
-## 🚀 About Me
-
-- 🌍 Based in Ethiopia
-- 🎓 High School Graduate (2026)
-- 💻 Learning Full-Stack Web Development
-- 🐍 Studying Python for Data Analysis & Machine Learning
-- 📱 Exploring Flutter Mobile Development
-- 📖 Passionate about technology, education, and open source
+- 🎓 Student
+- 💻 Full-Stack Web Developer
+- 🐍 Enthusiastic about Python, Data Science, and Statistics
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📊 Passionate about solving real-world problems with software
+- 🌱 Always learning and building new projects
+- 🚀 Open to collaboration on meaningful projects
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
+### Languages
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
-
-## 📈 Currently Learning
-
-```text
-██████████░░░░░░░░░░  HTML & CSS
-████████░░░░░░░░░░░░  JavaScript
-██████░░░░░░░░░░░░░░  Python
-████░░░░░░░░░░░░░░░░  Machine Learning
-███░░░░░░░░░░░░░░░░░ Flutter
-````
-
----
-
-## 🎯 2026 Goals
-
-* Build real-world projects
-* Master Full-Stack Development
-* Learn Machine Learning
-* Contribute to Open Source
-* Create a strong software portfolio
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect with Me
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
-
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/weldamlak-ayenew
+- 💬 Discord: https://discord.com/users/1503749867770609845
+- 📸 Instagram: https://www.instagram.com/weldamlak_ayenew
+- 🐦 X (Twitter): https://x.com/WeldamlakAyenew
+- ▶️ YouTube: https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ
+- 📱 WhatsApp: **+251 964 995 549**
 
 ---
 
-## 🤝 Connect
-
-* 📧 **[mweld2023@gmail.com](mailto:mweld2023@gmail.com)**
-
----
-
-<div align="center">
-
-*"Stay curious. Build consistently. Never stop learning."*
-
-</div>
+> **"Learning every day. Building for tomorrow."** 🚀
 ```
