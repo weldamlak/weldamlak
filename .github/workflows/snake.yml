@@ -21,6 +21,11 @@ jobs:
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          SNAKE_COLOR: "#3B82F6"
+          SNAKE_COLOR_DOTS: "#93C5FD"
+          SNAKE_ANIMATION: "snake"
+          SNAKE_SPEED: "3"
 
       - name: Commit and Push
         run: |
