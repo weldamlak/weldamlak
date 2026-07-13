@@ -50,6 +50,37 @@ I'm a student based in **Addis Ababa, Ethiopia**, passionate about building mode
 - ▶️ YouTube: https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ
 - 📱 WhatsApp: **+251 964 995 549**
 
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/weldamlak-ayenew" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/1503749867770609845" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/weldamlak_ayenew" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/WeldamlakAyenew" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="45" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mweld2023@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
+</p>
+
+📱 **WhatsApp:** +251 964 995 549
+
+
 ---
 
 > **"Learning every day. Building for tomorrow."** 🚀
