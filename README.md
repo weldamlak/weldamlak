@@ -54,34 +54,33 @@ I'm a student based in **Addis Ababa, Ethiopia**, passionate about building mode
 
 <p align="left">
   <a href="https://www.linkedin.com/in/weldamlak-ayenew" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/1503749867770609845" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/weldamlak_ayenew" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/WeldamlakAyenew" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X"/>
-  </a>
-  &nbsp;
-<a href="https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube"/>
-</a>
 
-  &nbsp;
+  <a href="https://discord.com/users/1503749867770609845" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <a href="https://www.instagram.com/weldamlak_ayenew" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://x.com/WeldamlakAyenew" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
   <a href="mailto:mweld2023@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://wa.me/251964995549" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
-📱 **WhatsApp:** +251 964 995 549
-
-
----
 
 > **"Learning every day. Building for tomorrow."** 🚀
