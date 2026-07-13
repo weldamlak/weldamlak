@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there! 👋 I'm Weldamlak Ayenew
 
 Welcome to my GitHub profile!
@@ -53,4 +53,3 @@ I'm a student based in **Addis Ababa, Ethiopia**, passionate about building mode
 ---
 
 > **"Learning every day. Building for tomorrow."** 🚀
-```
