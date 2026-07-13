@@ -73,7 +73,7 @@ I'm a student based in **Addis Ababa, Ethiopia**, passionate about building mode
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 
-  <a href="mailto:mweld2023@gmail.com">
+  <a href="weld: weldamlakendalew@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
