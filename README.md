@@ -8,7 +8,7 @@ I'm a student based in **Addis Ababa, Ethiopia** 🇪🇹
 
 Passionate about building modern web applications, solving real-world problems, and continuously learning new technologies.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=weldamlak-ayenew&style=for-the-badge&color=0e75b6" />
 
 </div>
 
@@ -45,9 +45,9 @@ Passionate about building modern web applications, solving real-world problems, 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=weldamlak-ayenew&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldamlak-ayenew&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ Passionate about building modern web applications, solving real-world problems, 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=weldamlak-ayenew&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Passionate about building modern web applications, solving real-world problems, 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak-ayenew&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Passionate about building modern web applications, solving real-world problems, 
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=weldamlak-ayenew&theme=flat&no-frame=true&column=4"/>
 </p>
 
 ---
@@ -136,13 +136,13 @@ Passionate about building modern web applications, solving real-world problems, 
 
 # 🐍 Contribution Snake
 
-> **Requires GitHub Actions to work.**
+> **Requires a GitHub Actions workflow to work. See setup instructions below.**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/weldamlak-ayenew/weldamlak-ayenew/output/github-contribution-grid-snake.svg"/>
 </p>
 
-
+---
 
 <div align="center">
 
@@ -151,4 +151,3 @@ Passionate about building modern web applications, solving real-world problems, 
 ⭐ Thanks for visiting my profile!
 
 </div>
-
