@@ -39,17 +39,6 @@ I'm a student based in **Addis Ababa, Ethiopia**, passionate about building mode
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-## 🌐 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/weldamlak-ayenew
-- 💬 Discord: https://discord.com/users/1503749867770609845
-- 📸 Instagram: https://www.instagram.com/weldamlak_ayenew
-- 🐦 X (Twitter): https://x.com/WeldamlakAyenew
-- ▶️ YouTube: https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ
-- 📱 WhatsApp: **+251 964 995 549**
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -83,4 +72,4 @@ I'm a student based in **Addis Ababa, Ethiopia**, passionate about building mode
 </p>
 
 
-> **"Learning every day. Building for tomorrow."** 🚀
+> **"Learning every day!"** 
