@@ -120,6 +120,6 @@ collaboration: Open to meaningful open-source work
 
 > *"Code with purpose. Learn with curiosity. Build with heart."*
 
-⭐ *Thanks for stopping by — let's create something great together.*
+⭐ *Thanks for stopping by let's create something great together.*
 
 </div>
