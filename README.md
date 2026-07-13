@@ -123,4 +123,3 @@ collaboration: Open to meaningful open-source work
 ⭐ *Thanks for stopping by — let's create something great together.*
 
 </div>
-```
