@@ -107,7 +107,7 @@ collaboration: Open to meaningful open-source work
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/weldamlak/weldamlak/main/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/weldamlak/weldamlak/main/github-contribution-grid-snake.gif" />
 </p>
 
 ---
