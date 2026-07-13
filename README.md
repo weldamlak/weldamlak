@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+Progress;Python+%7C+Data+Science+Explorer;Building+Ideas+into+Code;Welcome+to+my+Corner+of+GitHub!" />
 
 A passionate student developer from **Addis Ababa, Ethiopia** 🇪🇹  
-Crafting clean code, exploring data, and building for the future — one commit at a time.
+Crafting clean code, exploring data, and building for the future one commit at a time.
 
 <img src="https://komarev.com/ghpvc/?username=weldamlak&style=flat-square&color=3B82F6" />
 
