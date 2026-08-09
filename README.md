@@ -11,11 +11,9 @@ Crafting clean code, exploring data, and building for the future.
 
 </div>
 
----
 
 ## 🧠 About Me
 
-```yaml
 name: Weldamlak Ayenew
 location: Addis Ababa, Ethiopia
 education: Student
