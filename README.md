@@ -42,13 +42,7 @@ collaboration: Open to meaningful open-source work
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=weldamlak&theme=transparent&hide_border=true&fire=3B82F6&ring=3B82F6&currStreakLabel=3B82F6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-compact&hide_border=true&color=3B82F6&line=3B82F6&point=3B82F6" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=weldamlak&show_icons=true&theme=default&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=6B7280&bg_color=FFFFFF&hide=stars&count_private=true&include_all_commits=true" alt="GitHub Stats" /> </p><p align="center"> <img src="https://streak-stats.demolab.com?user=weldamlak&theme=default&hide_border=true&fire=3B82F6&ring=3B82F6&currStreakLabel=3B82F6&background=FFFFFF&sideNums=3B82F6&currStreakNum=3B82F6" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=3B82F6&line=3B82F6&point=3B82F6&bg_color=FFFFFF" /> </p>
 
 ---
 
