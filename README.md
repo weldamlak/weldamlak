@@ -50,28 +50,27 @@ collaboration: Open to meaningful open-source work
 </p>
 
 ## Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/weldamlak-ayenew">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
   </a>
   <a href="https://discord.com/users/1503749867770609845">
-    <img src="https://skillicons.dev/icons?i=discord" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" />
   </a>
   <a href="https://www.instagram.com/weldamlak_ayenew">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
   </a>
   <a href="https://x.com/WeldamlakAyenew">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" />
   </a>
   <a href="https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="45" height="45" />
   </a>
   <a href="mailto:weldamlakendalew@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
   </a>
   <a href="https://wa.me/251964995549">
-    <img src="https://skillicons.dev/icons?i=whatsapp" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://img.icons8.com/color/48/whatsapp.png" width="45" height="45" />
   </a>
 </p>
 
