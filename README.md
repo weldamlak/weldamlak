@@ -41,8 +41,17 @@ collaboration: Open to meaningful open-source work
 ## 📊 GitHub Stats
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weldamlak&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF&hide=stars&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=weldamlak&show_icons=true&theme=default&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=6B7280&bg_color=FFFFFF&hide=stars&count_private=true&include_all_commits=true" alt="GitHub Stats" /> </p><p align="center"> <img src="https://streak-stats.demolab.com?user=weldamlak&theme=default&hide_border=true&fire=3B82F6&ring=3B82F6&currStreakLabel=3B82F6&background=FFFFFF&sideNums=3B82F6&currStreakNum=3B82F6" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=3B82F6&line=3B82F6&point=3B82F6&bg_color=FFFFFF" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=weldamlak&theme=default&hide_border=true&fire=000000&ring=000000&currStreakLabel=000000&background=FFFFFF&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=000000&line=000000&point=000000&bg_color=FFFFFF" />
+</p>
 
 ---
 
