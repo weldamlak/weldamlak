@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=3B82F6&center=true&vleft=true&width=700&multiline=false&repeat=true&random=false&lines=Full-Stack+Developer+in+Progress;Python+%7C+Data+Science+Explorer;Building+Ideas+into+Code;Welcome+to+my+Corner+of+GitHub!;Let's+Build+Something+Amazing!;Always+Learning%2C+Always+Growing" />
 
-A passionate student developer from **Addis Ababa, Ethiopia** 🇪🇹  
+A passionate student developer from **Addis Ababa, Ethiopia**   
 Crafting clean code, exploring data, and building for the future one commit at a time.
 
 <img src="https://komarev.com/ghpvc/?username=weldamlak&style=flat-square&color=3B82F6" />
