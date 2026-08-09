@@ -11,7 +11,7 @@ Crafting clean code, exploring data, and building for the future one commit at a
 
 </div>
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name: Weldamlak Ayenew
@@ -24,7 +24,7 @@ focus:
 currently: Building projects and exploring new tech
 collaboration: Open to meaningful open-source work
 ```
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 <p>
@@ -38,7 +38,7 @@ collaboration: Open to meaningful open-source work
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 <p align="left">
@@ -48,9 +48,8 @@ collaboration: Open to meaningful open-source work
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=000000&line=000000&point=000000&bg_color=FFFFFF" style="border-radius: 15px;" />
 </p>
----
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/weldamlak-ayenew">
@@ -76,30 +75,28 @@ collaboration: Open to meaningful open-source work
   </a>
 </p>
 
----
 
-## 📚 Currently Diving Into
+## Currently Diving Into
 
-- 🌐 Full-Stack Web Development  
-- 🐍 Python & Data Science  
-- 📊 Statistics for ML  
-- 🤖 Machine Learning Fundamentals  
-- ⚡ Next.js & Modern React  
-- 📱 Flutter for Mobile  
+- Full-Stack Web Development  
+- Python & Data Science  
+- Statistics for ML  
+- Machine Learning Fundamentals  
+- Next.js & Modern React  
+- Flutter for Mobile  
 
----
 
-## 🎯 2026 Goals
+## 2026 Goals
 
-- 🚀 Ship real-world projects that matter  
-- 🌍 Make meaningful open-source contributions  
-- 💼 Build a standout developer portfolio  
-- 📚 Master the full-stack ecosystem  
-- 🤖 Build and deploy an AI-powered app  
+- Work on real-world projects 
+- Make meaningful open-source contributions  
+- Build a standout developer portfolio  
+- Master the full-stack ecosystem  
+- Build and deploy an AI-powered app  
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -108,6 +105,4 @@ collaboration: Open to meaningful open-source work
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/weldamlak/weldamlak/main/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
 
