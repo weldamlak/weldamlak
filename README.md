@@ -53,25 +53,25 @@ collaboration: Open to meaningful open-source work
 
 <p align="center">
   <a href="https://www.linkedin.com/in/weldamlak-ayenew">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://discord.com/users/1503749867770609845">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://www.instagram.com/weldamlak_ayenew">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://x.com/WeldamlakAyenew">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="mailto:weldamlakendalew@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" width="40" height="40" style="border-radius: 50%;" />
   </a>
   <a href="https://wa.me/251964995549">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" width="40" height="40" style="border-radius: 50%;" />
   </a>
 </p>
 
