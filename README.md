@@ -46,7 +46,7 @@ collaboration: Open to meaningful open-source work
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=000000&line=000000&point=000000&bg_color=FFFFFF" style="border-radius: 15px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-dark&hide_border=true&color=FFFFFF&line=FFFFFF&point=FFFFFF&bg_color=1A1B27" style="border-radius: 15px;" />
 </p>
 
 ## Let's Connect
