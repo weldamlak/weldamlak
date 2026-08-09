@@ -51,29 +51,28 @@ collaboration: Open to meaningful open-source work
 
 ## Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/weldamlak-ayenew">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+  <a href="https://www.linkedin.com/in/weldamlak-ayenew" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" height="45" />
   </a>
-  <a href="https://discord.com/users/1503749867770609845">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" />
+  <a href="https://discord.com/users/1503749867770609845" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" width="45" height="45" />
   </a>
-  <a href="https://www.instagram.com/weldamlak_ayenew">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
+  <a href="https://www.instagram.com/weldamlak_ayenew" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="45" height="45" />
   </a>
-  <a href="https://x.com/WeldamlakAyenew">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" />
+  <a href="https://x.com/WeldamlakAyenew" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitterx.png" width="45" height="45" />
   </a>
-  <a href="https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ">
+  <a href="https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="45" height="45" />
   </a>
-  <a href="mailto:weldamlakendalew@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
+  <a href="mailto:weldamlakendalew@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" height="45" />
   </a>
-  <a href="https://wa.me/251964995549">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" width="45" height="45" />
+  <a href="https://wa.me/251964995549" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45" height="45" />
   </a>
 </p>
-
 ## Currently Diving Into
 
 - Full-Stack Web Development  
