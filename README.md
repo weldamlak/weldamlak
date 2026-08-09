@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Weldamlak Ayenew
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress;Python+%7C+Data+Science+Explorer;Building+Ideas+into+Code;Welcome+to+my+Corner+of+GitHub!;Let's+Build+Something+Amazing!;Always+Learning%2C+Always+Growing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress;Python+%7C+Data+Science+Explorer;Building+Ideas+into+Code;Welcome+to+my+Corner+of+GitHub!;Let's+Build+Something+Amazing!;Always+Learning%2C+Always+Growing&animation=fadeIn" />
 
 A passionate student developer from **Addis Ababa, Ethiopia** 🇪🇹  
 Crafting clean code, exploring data, and building for the future one commit at a time.
