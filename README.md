@@ -50,7 +50,7 @@ collaboration: Open to meaningful open-source work
 </p>
 
 ## Let's Connect
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/weldamlak-ayenew" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" height="45" />
   </a>
