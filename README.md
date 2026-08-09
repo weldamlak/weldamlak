@@ -58,7 +58,7 @@ collaboration: Open to meaningful open-source work
   <a href="https://discord.com/users/1503749867770609845" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="48" height="48" alt="Discord" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.instagram.com/weldamlak_ayenew" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.instagram.com/weldamlak.a" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="Instagram" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://x.com/WeldamlakAyenew" target="_blank" style="margin: 0 10px;">
