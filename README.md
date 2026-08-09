@@ -13,7 +13,7 @@ Crafting clean code, exploring data, and building for the future one commit at a
 
 ## 🧠 About Me
 
-```yaml
+
 name: Weldamlak Ayenew
 location: Addis Ababa, Ethiopia
 education: Student
@@ -23,7 +23,7 @@ focus:
   - Machine Learning & AI
 currently: Building projects and exploring new tech
 collaboration: Open to meaningful open-source work
-```
+
 ## 🛠 Tech Stack
 
 **Languages**
