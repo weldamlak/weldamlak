@@ -40,7 +40,6 @@ collaboration: Open to meaningful open-source work
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weldamlak&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF&hide=stars&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=github&border_radius=15" alt="GitHub Stats" />
 </p>
@@ -50,7 +49,7 @@ collaboration: Open to meaningful open-source work
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=000000&line=000000&point=000000&bg_color=FFFFFF&border_radius=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=000000&line=000000&point=000000&bg_color=FFFFFF" style="border-radius: 15px;" />
 </p>
 ---
 
