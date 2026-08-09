@@ -50,29 +50,31 @@ collaboration: Open to meaningful open-source work
 </p>
 
 ## Let's Connect
-<p align="left">
+
+<p align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/weldamlak-ayenew" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/1503749867770609845" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="48" height="48" alt="Discord" />
   </a>
   <a href="https://www.instagram.com/weldamlak_ayenew" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="Instagram" />
   </a>
   <a href="https://x.com/WeldamlakAyenew" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitterx.png" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/twitterx.png" width="48" height="48" alt="X" />
   </a>
   <a href="https://www.youtube.com/channel/UCKHULU_WmJADLMpQIT0zsPQ" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="48" height="48" alt="YouTube" />
   </a>
   <a href="mailto:weldamlakendalew@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" alt="Gmail" />
   </a>
   <a href="https://wa.me/251964995549" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45" height="45" />
+    <img src="https://img.icons8.com/fluency/48/whatsapp.png" width="48" height="48" alt="WhatsApp" />
   </a>
 </p>
+
 
 ## Currently Diving Into
 
