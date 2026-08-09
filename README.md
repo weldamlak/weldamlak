@@ -36,12 +36,12 @@ collaboration: Open to meaningful open-source work
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,github,vscode,vercel,netlify,notion" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=weldamlak&theme=default&hide_border=true&fire=000000&ring=000000&currStreakLabel=000000&background=FFFFFF&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000&border_radius=15" />
 </p>
 
