@@ -73,6 +73,7 @@ collaboration: Open to meaningful open-source work
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45" height="45" />
   </a>
 </p>
+
 ## Currently Diving Into
 
 - Full-Stack Web Development  
