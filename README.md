@@ -42,17 +42,16 @@ collaboration: Open to meaningful open-source work
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weldamlak&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF&hide=stars&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=weldamlak&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF&hide=stars&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=github&border_radius=15" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=weldamlak&theme=default&hide_border=true&fire=000000&ring=000000&currStreakLabel=000000&background=FFFFFF&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000" />
+  <img src="https://streak-stats.demolab.com?user=weldamlak&theme=default&hide_border=true&fire=000000&ring=000000&currStreakLabel=000000&background=FFFFFF&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=000000&line=000000&point=000000&bg_color=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=weldamlak&theme=github-light&hide_border=true&color=000000&line=000000&point=000000&bg_color=FFFFFF&border_radius=15" />
 </p>
-
 ---
 
 ## 🌐 Let's Connect
