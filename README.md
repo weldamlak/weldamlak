@@ -13,7 +13,7 @@ Crafting clean code, exploring data, and building for the future one commit at a
 
 ## 🧠 About Me
 
-``
+```yaml
 name: Weldamlak Ayenew
 location: Addis Ababa, Ethiopia
 education: Student
